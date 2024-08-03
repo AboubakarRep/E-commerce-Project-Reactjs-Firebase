@@ -44,12 +44,12 @@ bash
 npm run dev
 
 Documentation React js:
-[text](https://react.dev/learn)
+(https://react.dev/learn)
 
 * Si vous voulez changer et ne pas utilisé ma configuration Firebase:
 . Pour se Connecter en tant qu'administrateur l'email est : admin@gmail.com
 et le Password est admin123.
-[text](https://samuelbankole.medium.com/google-firebase-in-react-1acc64516788)
+(https://samuelbankole.medium.com/google-firebase-in-react-1acc64516788)
 . Vous devez en plus créer un utilisateur avec le role admin dans Firebase.
 
 * Fonctionnalités
